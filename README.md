@@ -1,6 +1,6 @@
 News Research Tool
 
-A Streamlit-based AI app that allows users to paste news article URLs, extract content, generate embeddings, store them in FAISS, and ask questions using Groq’s Llama 3.3 70B model.
+A Streamlit-based AI app that allows users to paste news article URLs, extract content, generate embeddings, store them in FAISS, and ask questions and get accurate answers
 
 🚀 Features
 
